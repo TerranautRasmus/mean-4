@@ -1,5 +1,5 @@
 1. Explain basic security terms like authentication, authorization, confidentiality, integrity, SSL/TLS and provide
-examples of how you have used them.
+examples of how you have used them..
 
 Authentication: Identifying that the client is the right client. Normally done with a username-password combination.
 
